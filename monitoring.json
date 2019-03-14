@@ -8,7 +8,7 @@
     {
       "name": "ElasticSearchCheck",
       "ok": true,
-      "executionduration": 1050
+      "executionduration": 105000
     },
     {
       "name": "S3Check",
